@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omar Yamany
+- 👋 Hi, I’m Omar Mohamed Yamany
 - 👀 I’m interested in Embedded Software Engineering
 - 🌱 I’m currently learning Embedded Software Development
 - 💞️ I’m looking to collaborate on Embedded C Projects
