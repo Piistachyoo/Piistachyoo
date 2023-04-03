@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omar Yamany
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Embedded software development
-- 💞️ I’m looking to collaborate on C Projects
+- 👀 I’m interested in Embedded Software Engineering
+- 🌱 I’m currently learning Embedded Software Development
+- 💞️ I’m looking to collaborate on Embedded C Projects
 - 📫 How to reach me, 
 Discord: Pista.exe#7883
 Facebook: https://fb.com/piistachyoo
