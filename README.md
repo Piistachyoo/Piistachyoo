@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=Piistachyoo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m Omar Mohamed Yamany
 - 👀 I’m interested in Embedded Software Engineering
 - 🌱 I’m currently learning Embedded Software Development
