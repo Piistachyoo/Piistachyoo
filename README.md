@@ -1,21 +1,32 @@
-![](https://komarev.com/ghpvc/?username=Piistachyoo&style=for-the-badge)
 
+![](https://komarev.com/ghpvc/?username=Piistachyoo&style=plastic&color=D83B7D)
+
+## 👋 About me
 - 👋 Hi, I’m Omar Mohamed Yamany
 - 👀 I’m interested in Embedded Software Engineering
-- 🌱 I’m currently learning Embedded Software Development
-- 💞️ I’m looking to collaborate on Embedded C Projects
+- 🌱 I’m currently learning Embedded Linux 
 - 📫 How to reach me, 
 
-- Discord: Pista.exe#7883
+- Discord: piistachyoo
 
 - Facebook: https://fb.com/piistachyoo
 
 - Linkedin: https://www.linkedin.com/in/omaryamany/
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Piistachyoo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 My GitHub Stats
+![Piistachyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piistachyoo&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piistachyoo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piistachyoo&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📈 My GitHub Streak
+![Piistachyoo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piistachyoo&theme=radical)
+
+## 📊 My Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piistachyoo&layout=compact&theme=radical)
+
+## 🏆 My GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Piistachyoo&theme=radical)
+
 
 <!---
 Piistachyoo/Piistachyoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
