@@ -13,19 +13,25 @@
 
 - Linkedin: https://www.linkedin.com/in/omaryamany/
 
+## 📌 My Projects collection
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=piistachyoo&repo=c_projects&theme=tokyonight)](https://github.com/Piistachyoo/C_Projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=piistachyoo&repo=STM32_Projects&theme=tokyonight)](https://github.com/Piistachyoo/STM32_Projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=piistachyoo&repo=AVR_Projects&theme=tokyonight)](https://github.com/Piistachyoo/AVR_Projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=piistachyoo&repo=PIC_Projects&theme=tokyonight)](https://github.com/Piistachyoo/PIC_Projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## 📊 My GitHub Stats
-![Piistachyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piistachyoo&show_icons=true&theme=radical)
+![Piistachyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piistachyoo&show_icons=true&theme=tokyonight)
 
 
 ## 📈 My GitHub Streak
-![Piistachyoo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piistachyoo&theme=radical)
+![Piistachyoo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piistachyoo&theme=tokyonight)
 
 ## 📊 My Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piistachyoo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piistachyoo&layout=compact&theme=tokyonight)
 
 ## 🏆 My GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Piistachyoo&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Piistachyoo&theme=tokyonight)
 
 
 <!---
