@@ -7,11 +7,11 @@
 - 🌱 I’m currently learning Embedded Linux 
 - 📫 How to reach me, 
 
-- Discord: piistachyoo
+    - Discord: piistachyoo
 
-- Facebook: https://fb.com/piistachyoo
+    - Facebook: https://fb.com/piistachyoo
 
-- Linkedin: https://www.linkedin.com/in/omaryamany/
+    - Linkedin: https://www.linkedin.com/in/omaryamany/
 
 ## 📌 My Projects collection
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=piistachyoo&repo=c_projects&theme=tokyonight)](https://github.com/Piistachyoo/C_Projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
