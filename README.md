@@ -31,7 +31,7 @@
 
 ## 🏆 My GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Piistachyoo&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=Piistachyoo&theme=onedark)
 
 
 <!---
