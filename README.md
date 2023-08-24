@@ -20,14 +20,14 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=piistachyoo&repo=PIC_Projects&theme=tokyonight)](https://github.com/Piistachyoo/PIC_Projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 📊 My GitHub Stats
-![Piistachyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piistachyoo&show_icons=true&theme=tokyonight)
+![Piistachyoo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Piistachyoo&show_icons=true&theme=tokyonight)
 
 
 ## 📈 My GitHub Streak
 ![Piistachyoo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piistachyoo&theme=tokyonight)
 
 ## 📊 My Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piistachyoo&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=piistachyoo&layout=compact&theme=tokyonight)
 
 ## 🏆 My GitHub Trophies
 
